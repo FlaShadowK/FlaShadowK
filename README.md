@@ -9,8 +9,7 @@ I took part in Cortex Academy twice so far, gaining a lot of experience in web a
 * 🌍  I'm based in Montenegro
 * ✉️  You can contact me at [oarman93sk@gmail.com](mailto:oarman93sk@gmail.com)
 * 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on MONEY
-
+  
 ### Skills
 
 

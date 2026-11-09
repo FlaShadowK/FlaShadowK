@@ -17,7 +17,6 @@
 ### 👋 About me
 
 - 🛠️ I build web, mobile and desktop apps, lately with a focus on **developer tools and AI agents**
-- 🎓 Two-time **Cortex Academy** participant in web and mobile development
 - 🌍 Based in **Montenegro**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/armanomerovic) or by [email](mailto:oarman93sk@gmail.com)
 
